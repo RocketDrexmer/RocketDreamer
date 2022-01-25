@@ -1,0 +1,5 @@
+- 👋 Hi, I’m RocketDrexmer
+- 👀 I’m interested in moderating/scripting Minecraft Servers
+- 🌱 I’m currently learning JScript
+- 💞️ I’m looking to collaborate on PvP Servers
+- 📫 How to reach me in Discord: Add me (RocketDreamer#0001)
